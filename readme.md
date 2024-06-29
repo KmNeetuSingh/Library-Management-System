@@ -1,4 +1,4 @@
-# Bookstore App
+# Library-Management-System
 
 This is a simple web application for managing a bookstore. Users can add, view, and delete books with ease.
 
@@ -34,4 +34,4 @@ This is a simple web application for managing a bookstore. Users can add, view, 
 
 ## License
 
-This project is open-source and available under the MIT License.
+This project is open-source and available.
